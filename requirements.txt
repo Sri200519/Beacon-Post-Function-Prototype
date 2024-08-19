@@ -1,0 +1,8 @@
+google-cloud-storage
+google-api-python-client
+beautifulsoup4
+requests
+pdfplumber
+google-api-core
+gcloud
+functions-framework==3.*
